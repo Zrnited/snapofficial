@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [snapofficial.github.io](https://your-live-site-url.com)
+- Live Site URL: [zrnited.github.io/snapofficial.github.io](https://your-live-site-url.com)
 
 ## My process
 
